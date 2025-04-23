@@ -30,16 +30,16 @@ Make sure you have the following installed:
 
 ## 🚀 Projects & Experiments  
 
-🔹 **[EXP-1: Streamlit Spiral Visualization(https://github.com/divyamgarg1/Docker1/tree/main/Exp-01)**  
-🔹 **[EXP-2: Binary Classification WebApp]**  
-🔹 **[EXP-3: Python Logging with Docker]**  
-🔹 **[EXP-4: Streamlit + PostgreSQL]**  
-🔹 **[EXP-5: MySQL Docker Container]**  
-🔹 **[EXP-6: Docker Network Experiment]**  
-🔹 **[EXP-7: ML Model Deployment with Evidently]**  
-🔹 **[EXP-8: Deploying on AWS EC2]**  
-🔹 **[EXP-9: Minikube with Docker]**  
-🔹 **[EXP-10: Docker Bake]**  
+🔹 **[EXP-1: Streamlit Spiral Visualization](https://github.com/divyamgarg1/Docker1/tree/main/Exp-01)**  
+🔹 **[EXP-2: Binary Classification WebApp](https://github.com/divyamgarg1/Docker1/tree/main/Exp-02)**  
+🔹 **[EXP-3: Python Logging with Docker](https://github.com/divyamgarg1/Docker1/tree/main/Exp-03)**  
+🔹 **[EXP-4: Streamlit + PostgreSQL](https://github.com/divyamgarg1/Docker1/tree/main/Exp-04)**  
+🔹 **[EXP-5: MySQL Docker Container](https://github.com/divyamgarg1/Docker1/tree/main/Exp-05)**  
+🔹 **[EXP-6: Docker Network Experiment](https://github.com/divyamgarg1/Docker1/tree/main/Exp-06)**  
+🔹 **[EXP-7: ML Model Deployment with Evidently](https://github.com/divyamgarg1/Docker1/tree/main/Exp-07)**  
+🔹 **[EXP-8: Deploying on AWS EC2](https://github.com/divyamgarg1/Docker1/tree/main/Exp-08)**  
+🔹 **[EXP-9: Minikube with Docker](https://github.com/divyamgarg1/Docker1/tree/main/Exp-09)**  
+🔹 **[EXP-10: Docker Bake](https://github.com/divyamgarg1/Docker1/tree/main/Exp-10)**  
 
 ---
 
@@ -50,7 +50,7 @@ Make sure you have the following installed:
 docker build -t streamlit-spiral .  
 docker run -p 8501:8501 streamlit-spiral  
 ```
-🔗 **[View Project](https://github.com/Aditya5757raj/Docker_Practices/tree/main/Exp-1)**  
+🔗 **[View Project](https://github.com/divyamgarg1/Docker1/tree/main/Exp-01)**  
 
 ---
 
@@ -61,7 +61,7 @@ docker run -p 8501:8501 streamlit-spiral
 docker build -t binary-classifier .  
 docker run -p 8501:8501 binary-classifier  
 ```
-🔗 **[View Project Code](https://github.com/Aditya5757raj/Docker_Practices/tree/main/Exp-2)**  
+🔗 **[View Project Code](https://github.com/divyamgarg1/Docker1/tree/main/Exp-02)**  
 
 ---
 
@@ -72,43 +72,43 @@ docker run -p 8501:8501 binary-classifier
 docker build -t python-logging .  
 docker run python-logging  
 ```
-🔗 **[View Project](https://github.com/Aditya5757raj/Docker_Practices/tree/main/Exp-3)**  
+🔗 **[View Project](https://github.com/divyamgarg1/Docker1/tree/main/Exp-03)**  
 
 ---
 
 ### 🌟 **Streamlit + PostgreSQL**  
 📌 **Description:** Connect **Streamlit with PostgreSQL database** inside a **Docker container**.  
-🔗 **[View Project](https://github.com/Aditya5757raj/Docker_Practices/tree/main/Exp-4)**  
+🔗 **[View Project](https://github.com/divyamgarg1/Docker1/tree/main/Exp-04)**  
 
 ---
 
 ### 🌟 **MySQL Docker Container**  
 📌 **Description:** Deploy a **MySQL database container** and connect it to applications.  
-🔗 **[View Project](https://github.com/Aditya5757raj/Docker_Practices/tree/main/Exp-5)**  
+🔗 **[View Project](https://github.com/divyamgarg1/Docker1/tree/main/Exp-05)**  
 
 ---
 
 ### 🌟 **Docker Network Experiment**  
 📌 **Description:** Understand **networking in Docker** by connecting multiple containers.  
-🔗 **[View Project](https://github.com/Aditya5757raj/Docker_Practices/tree/main/Exp-6)**  
+🔗 **[View Project](https://github.com/divyamgarg1/Docker1/tree/main/Exp-06)**  
 
 ---
 
 ### 🌟 **ML Model Deployment with Evidently**  
 📌 **Description:** Deploy an ML model with **Evidently AI** inside a Docker container.  
-🔗 **[View Project](https://github.com/Aditya5757raj/Docker_Practices/tree/main/Exp-7)**  
+🔗 **[View Project](https://github.com/divyamgarg1/Docker1/tree/main/Exp-07)**  
 
 ---
 
 ### 🌟 **Deploying on AWS EC2**  
 📌 **Description:** Deploy **Dockerized applications** on an **AWS EC2 instance**.  
-🔗 **[View Project](https://github.com/Aditya5757raj/Docker_Practices/tree/main/Exp-8)**  
+🔗 **[View Project](https://github.com/divyamgarg1/Docker1/tree/main/Exp-08)**  
 
 ---
 
 ### 🌟 **Minikube with Docker**  
 📌 **Description:** Run **Kubernetes locally** using Minikube with Docker.  
-🔗 **[View Project](https://github.com/Aditya5757raj/Docker_Practices/tree/main/Exp-9)**  
+🔗 **[View Project](https://github.com/divyamgarg1/Docker1/tree/main/Exp-09)**  
 
 ---
 
