@@ -90,6 +90,3 @@ Here is a screenshot of the experiment in action:
 
 ✅ The above image shows successful container communication via ping.
 ---
-
-## 📢 Author
-👤 [Aditya Raj](https://github.com/Aditya5757raj)
