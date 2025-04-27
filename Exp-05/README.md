@@ -71,7 +71,7 @@ Docker_Practices/
 - The **root password** is set to `root` (change this in production for security).  
 
 ## 🔗 Repository Link  
-🔗 **GitHub:** [Aditya5757raj/Docker_Practices](https://github.com/Aditya5757raj/Docker_Practices)  
+🔗 **GitHub:** [Aditya5757raj/Docker_Practices](https://github.com/divyamgarg1/Docker1/edit/main/Exp-05)  
 
 ---
 
