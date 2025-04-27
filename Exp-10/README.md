@@ -116,11 +116,9 @@ You should see the multi-architecture image available under **Tags**.
 
 ### Docker Hub Repository
 
-![Docker Hub Repository Screenshot](repo.jpg)
 
 ### Multi-Architecture Tags
 
-![Multi-Architecture Tags Screenshot](multi.jpg)
 
 ---
 
